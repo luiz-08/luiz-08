@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/luiz08">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/luiz08.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/GST.png" alt="TryHackMe">
   </a>
 </div>
 
